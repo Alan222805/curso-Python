@@ -11,6 +11,7 @@ y no se rompe el string") """
 
 
 # --> Función input() commit 1
+# --> Función input() commit 2
 
 #print('Tu nombre es: ' + input('¿Cómo te llamas?: ') + ' ' + input('y tu apellido es: '))
 
