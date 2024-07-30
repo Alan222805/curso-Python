@@ -10,7 +10,7 @@ print("Esta linea es muy larga y no cabe en una sola linea, por lo que la contin
 y no se rompe el string") """
 
 
-# --> Función input()
+# --> Función input() commit 1
 
 #print('Tu nombre es: ' + input('¿Cómo te llamas?: ') + ' ' + input('y tu apellido es: '))
 
