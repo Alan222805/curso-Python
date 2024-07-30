@@ -1,0 +1,58 @@
+[
+    {
+        "username": "user1",
+        "email" : "user1@gmail.com",
+        "age": 23,
+        "status" : "inactive"
+    },    
+    {
+        "username": "user2",
+        "email" : "user2@gmail.com",
+        "age": 24,
+        "status" : "inactive"
+    },
+    {
+        "username": "user3",
+        "email" : "user3@gmail.com",
+        "age": 25,
+        "status" : "inactive"
+    },
+    {
+        "username": "user4",
+        "email" : "user4@gmail.com",
+        "age": 26,
+        "status" : "inactive"
+    },
+    {
+        "username": "user5",
+        "email" : "user5@gmail.com",
+        "age": 27,
+        "status" : "inactive"
+    },
+    {
+        "username": "user6",
+        "email" : "user6@gmail.com",
+        "age": 28,
+        "status" : "inactive"
+    },    
+    {
+        "username": "user7",
+        "email" : "user7@gmail.com",
+        "age": 29,
+        "status" : "inactive"
+    },
+    {
+        "username": "user8",
+        "email" : "user8@gmail.com",
+        "age": 30,
+        "status" : "inactive"
+    },
+    {
+        "username": "user9",
+        "email" : "user9@gmail.com",
+        "age": 31,
+        "status" : "inactive"
+    }     
+]
+
+
