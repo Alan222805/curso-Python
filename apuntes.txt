@@ -1,0 +1,25 @@
+GITIGNORE
+
+
+*.txt  sirve para ignorar todos los archivos que sean archivos de texto o .txt
+
+
+fotos/    sirve para ignorar todos los archivos que esten dentro de una carpeta, en este caso 'fotos'
+
+!readme.txt   sirve para especificar que un archivo en especifico de deberá ignorarse. Es lo mismo cuando se trabaja con carpetas
+
+
+
+
+ALIAS
+
+supongamos que queremos poner el siguiente comando:
+
+git log --oneline --graph --all --pretty=format:"%C(auto)%h%d %s %C(black)%C(bold)%cr"
+
+seria muy tedioso tener que hacerlo constantemente, y aqui es donde entran los alias, podemos crear una configuracion global para despues de una forma muy corta podamos hacerlo más rapido, de la siguiente forma:
+
+git config --global alias.log-mejorado "log --oneline --graph --all --pretty=format:'%C(auto)%h%d %s %C(black)%C(bold)%cr'"
+
+para despues simplemente ejecutar lo siguiente en la terminal:
+git log-mejorado
