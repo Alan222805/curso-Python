@@ -4,7 +4,6 @@ def suma (*num):
 print(suma(2, 5, 3, 4, 5))
 
 
-nombre = "Alan"
-apellido = "Sanchez"
+saludo = "Hola Alan Sanchez"
 
-print(f"Hola {nombre +' '+ apellido} ¿Cómo estas?")
+print(saludo)
