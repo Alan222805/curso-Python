@@ -1,0 +1,6 @@
+--Los datos son: ---
+Nombre: Alan, Apellido: Sanchez 
+
+Nombre: Emmanuel, Apellido: Arias 
+
+Nombre: Daniela, Apellido: Lucio 
