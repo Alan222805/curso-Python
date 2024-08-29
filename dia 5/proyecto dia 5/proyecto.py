@@ -24,7 +24,7 @@ def mostrar_letras(letra,indices, lista_guiones:list):
         else:
             lista_mostrar+='_'
             
-    return lista_mostrar
+    return lista_mostrar 
         
         
 
