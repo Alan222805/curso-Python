@@ -15,7 +15,7 @@ print(en_europa)
 print(en_espanha)
 
 
-# EJERCICIO 1
+""" # EJERCICIO 1
 
 ruta_base = Path.home()
 
@@ -29,4 +29,4 @@ ruta2 = Path(base, "Curso Python", "Día 6", "practicas_path.py")
 
 
 print(ruta1)
-print(ruta2.with_name("hola"))
+print(ruta2.with_name("hola")) """

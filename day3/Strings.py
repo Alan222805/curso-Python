@@ -1,5 +1,5 @@
 texto = "Hola mundo"
-fragmento = texto[::-2]
+""" fragmento = texto[::-2]
 # print(texto + " hola mundo")
 nuevo_texto = texto.split('o')
 
@@ -12,4 +12,6 @@ print(texto[2].lower())
 
 
 texto = texto.replace("mundo", "a todos")
-print(texto)
+print(texto) """
+
+print(texto[2:4:2])
